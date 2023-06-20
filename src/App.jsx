@@ -25,8 +25,8 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Jordan Gnamien",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
+  title: "Linux System Administrator & DevSecOps",
+  email: "jordan.gnamien@smile.ci",
   gitHub: "microsoft",
   instagram: "microsoft",
   linkedIn: "satyanadella",
